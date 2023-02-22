@@ -1,0 +1,2 @@
+﻿  源.cpp
+C:\Users\X1 Carbon\Documents\Visual Studio 2019\Project\test3\Test3\源.cpp(89,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
